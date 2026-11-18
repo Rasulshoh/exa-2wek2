@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\exma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\exma2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\exma2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\exma2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\exma2\bin\Debug\net10.0\exma2.exe
+C:\Users\Admin\Desktop\exma2\bin\Debug\net10.0\exma2.deps.json
+C:\Users\Admin\Desktop\exma2\bin\Debug\net10.0\exma2.runtimeconfig.json
+C:\Users\Admin\Desktop\exma2\bin\Debug\net10.0\exma2.dll
+C:\Users\Admin\Desktop\exma2\bin\Debug\net10.0\exma2.pdb
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\exma2.dll
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\refint\exma2.dll
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\exma2.pdb
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\exma2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\exma2\obj\Debug\net10.0\ref\exma2.dll

@@ -1,7 +1,10 @@
-﻿
-// // task 1
-// Math malu= new Math();
-// System.Console.WriteLine(malu.Sqrt(5));
+﻿// / Main d = new Main();
+// System.Console.WriteLine(d.Abs(-7.5));
+// System.Console.WriteLine(d.Abs(-7));
+// System.Console.WriteLine(d.Pow(2, 3));
+// System.Console.WriteLine(d.Sqrt(16));
+// System.Console.WriteLine(d.Max(3, 7));
+// System.Console.WriteLine(d.Min(3, 7));
 
 //task 2
 List<Post> posts = new List<Post>();

@@ -1,48 +1,45 @@
-// public class Math
+// / public class Main{
+// public const double PI = 3.14;
+// public const double E = 2.71;
+// public double Abs(double value)
 // {
-//   public double Abs(double c)
-//   {
-//    if(c<0) return (c*-2)/2;
-//    else return c;
-//   }
-//   public float Abs(float b)
-//   {
-//    if(b<0) return b*-2/2;
-//    else return b;
-//   }
-//   public int Abs(int a)
-//   {
-//    if(a<0) return a*-2/2;
-//    else return a;
-//   }
-//   double s=1;
-//   public double Pow(double x, double y)
+//     if(value < 0)
+//         {
+//             return -value;
+//         }
+//         return value;
+// }
+//     public int Abs(int value)
 //     {
-//         if(y<=0) return s;
-//         s*=x;
-//         return Pow(x,y-1);
+//         if(value < 0)
+//         {
+//             return -value;
+//         }
+//         return value;
 //     }
-//     public double Sqrt(int a)
+//     public double Pow(double x, double y)
 //     {
-//        if(a==0) return 0;
-//        double s= a;
-//        for (int i = 0; i < 100; i++)
-//        {
-//         s=(s+a/s)/2;
-//        }
-//        return s;
+//         return System.Math.Pow(x, y);
 //     }
-//     public int Max(int a, int b)
+//     public double Sqrt(int d)
 //     {
-//         if(a<b) return b;
-//         else return a;
+//         return System.Math.Sqrt(d);
 //     }
-//     public int Min(int a, int b)
-//     {
-//         if(a<b) return a;
-//         else return b;
 
-        
+//     public int Max(int val1, int val2)
+//     {
+//         if (val1 > val2)
+//         {
+//             return val1;
+//         }
+//         return val2;
 //     }
-    
+//     public int Min(int val1, int val2)
+//     {
+//         if (val1 < val2)
+//         {
+//             return val1;
+//         }
+//         return val2;
+//     }
 // }
